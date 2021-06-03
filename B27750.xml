@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Oxford wonder giving a true and strange relation of Mr. Henny [sic] Watts, minister of St. Clements parish, in the city of Oxford, who lay in a trance forty-eight hours and six minutes ...</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27750</idno><idno type="EEBO-CITATION">27926452</idno>
+  <idno type="VID">205779</idno>
+  <idno type="EEBO-PROQUEST">2240903112</idno>
+  
+            <idno type="STC">Wing O993</idno>
+            <idno type="OCLC">27926452</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27750)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1731:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Oxford wonder giving a true and strange relation of Mr. Henny [sic] Watts, minister of St. Clements parish, in the city of Oxford, who lay in a trance forty-eight hours and six minutes ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Title page contains illustration.</note>
+                  <note>"Licensed and enter'd according to order."</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Watts, Henry, 17th century.</term>
+               <term type="topical_term">Prophecies.</term>
+               <term type="topical_term">Trance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205779:1"/>
+            <p> THE <hi>Oxford</hi> WONDER: GIVING A True and strange Relation of Mr. <hi>Henry Watts,</hi> Minister of St. <hi>Clement's</hi> Parish, in the City of <hi>Oxford,</hi> who lay in a Trance Forty-eight Hours and Six Minutes.</p>
+            <p>To which is added, A Sermon preached at the intended Funeral, from the 2d of <hi>Tim.</hi> iv. 7. I have fought a good Fight, I have finished my Course, I have kept the Faith.</p>
+            <p>ALSO A Sermon which he preached himself the <hi>Sunday</hi> after he came out of the Trance to those that were invited to his Funeral, <hi>viz. John</hi> xi. 15. I am &amp;c.</p>
+            <figure>
+               <figDesc>portrait of a man (prob. Mr. Henry Watts)</figDesc>
+            </figure>
+            <p>Licensed and enter'd according to Order.</p>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="2" facs="tcp:205779:2"/>
+            <head>The Oxford WONDER, &amp;c.</head>
+            <p>IN the Parish of St. Clement's, Oxford, lived one Mr. Henry Watts, formerly a Minister of that Place, being a very worthy and devout Gentleman, taking every Week extraordinary Pains in instructing his Parishioners, going from House to House to compleat and confirm them in their Christian Faith and Principles, and where he found any in great necessity he would not only relieve them to the utmost of his ability, but would promote and put for<g ref="char:EOLhyphen"/>wards weekly Contributions, often preaching upon the Christian and divine Subject of Chari<g ref="char:EOLhyphen"/>ty, and indeed he was the wonder of those Parts, by his often putting in practice that Heavenly Duty, and these good Offices he has from time to time performed, during his re<g ref="char:EOLhyphen"/>sidence as Minister at the Place aforesaid which has been near 12 Years, but however the grief of his Parishioners, especially the poorer Sort, he fell into a Swoon on the si<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k Day of August last, and dropt by his Chair to the great amaze<g ref="char:EOLhyphen"/>ment of the Spectators, in which they gave him comfortable Cordials, but all proving to no effect; so about eight of the Clock the same Morning, finding his body cold and breathless, his Friends order'd and prepar'd all things necessary for his Funeral, which was appointed to be upon the third following his supposed Death, being in his Coffin all that time with<g ref="char:EOLhyphen"/>out any appearance of Life; nay, seemingly so far from it that he was really cold; the third
+<pb n="3" facs="tcp:205779:2"/> Day being come the Rev. Mr. Wilkinson was made choice of to preach the Funeral Sermon, the Substance of which is as follows.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="sermon">
+                        <head>The SERMON.</head>
+                        <epigraph>
+                           <bibl>2 Tim. iv. 7.</bibl>
+                           <q>I have fought a good Fight, and have finished my Course, Beloved Friends, and fellow Christians.</q>
+                        </epigraph>
+                        <p>
+                           <hi>I Have no need to give you the Character of our departed Brother; and Fellow Labourer in the Lord, his Parts, Piety, and Goodness were sufficiently known to all you, the blessed effects of which, no doubt, but by this time through the mercies of our Saviour, makes him shine amongst the elect in the Kingdom of God. He when living amongst us was a lively Pattern and Emblem to imitate, his Sickness and extraordinary Patience under it, confider<g ref="char:EOLhyphen"/>ing its violence, may learn us to be harmless and submissive under all Afflictions, his daily considering how sweet and easy God had made it to him, may also give us matter of comfort and consolation against that dreadful and ter<g ref="char:EOLhyphen"/>rible Moment of our own, provide we trace him in all the godly performances of his holy Life and confession; which that we may all do, God of his infinite mercy and goodness en<g ref="char:EOLhyphen"/>able us with grace through our Lord Jesus Christ, to whom, with the Father and the holy spirit, be all honour, glory, praise, power, and dominion, now and for evermore. Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="4" facs="tcp:205779:3"/>
+            <p> Dr. <hi>Wilkinson,</hi> the Minister had no sooner ended his sermon, and descended towards the grave, in order to perform the usual ceremo<g ref="char:EOLhyphen"/>nies but to his, and other People's great sur<g ref="char:EOLhyphen"/>prize, a noise of groaning and struggling was heard in the Coffin, just as they were putting it into the Ground. Whereupon, by Dr. <hi>Wil<g ref="char:EOLhyphen"/>kinson</hi>'s Order, the Coffin was open'd; when, to all the Spectators astonishment, the suppos<g ref="char:EOLhyphen"/>ed dead Corpse held up his hand, and offer'd to rise up bidding them not be afraid, but spoke very faint. However, being put into a warm bed, and having some comfortable things given him by degrees recovered his former Senses, and being asked how he did, said very well, and able to deliver what had been revealed to him. After he had order'd some bolsters and pillows to be brought to support him being weak, he desired to sit up in his bed, and leaning on them, said I have been a long journey, where I have had many extraordinary secrets made known to me, some of which I will reveal to you, <hi>viz</hi> As soon as my soul was seperated from this lump of clay, all my Sins were exposed before me seeming as engraved on a marble table in crim<g ref="char:EOLhyphen"/>son letters, which very much astonished me; the scroll was very large, every title of them being fresh in my mind, it caused me almost to despair: When at that very instant an An<g ref="char:EOLhyphen"/>gle presented me with a white and plesant roll, in which my good Acts were written in letters
+<pb n="5" facs="tcp:205779:3"/> of shining gold; as also my holy Prayers, and charitable Practice, which shined above all the rest most gloriously: So that a great and heavenly joy seived my Soul so waiting and expecting my Sentence, this heavenly Person bid me return and declare to the World as follows: There shall be great Signs and Visions of armies that shall be seen fighting in the Air that will be shewn from Heaven, to testify that the Lord's coming is at hand to judge the World in righteousness; and this will be a year of great wars and blood shed amongst the armies abroad, and two great towns will be taken after an obstinate and bloody resistance after which a mighty battle will be fought, which will last some Hours, and many thou<g ref="char:EOLhyphen"/>sands will be slain, this being the last that will be fought, and will therefore be the most terrible; and in the end shall be a general Peace, and there shall be no more clashing of swords, nor the noise of guns; and the cries of dying Soldiers shall be no more heard; for there shall be a general peace through all Europe. By this shall be a year of great sickness in mortality, which will happen in some parts of this King<g ref="char:EOLhyphen"/>dom; the small Pox, Fevers, and Agues will prove very fatal. And there will be many signs seen in the air, and great earthquakes in Spain and Italy; which will do great damage and great confusion will happen in the Turkish dominions, and shall convince them that he is the Mahomitant Imposter, and of a great and
+<pb n="6" facs="tcp:205779:4"/> dismal shower of blood that shall overflow that great signet of Constantinople, that shou'd convert many of the Turks into the Christian Faith. So my Friends I have delivered to you what I have heard and seen faithfully, upon which Mrs. Watts, (being his own Sister) asked him if he could give any certain Testi<g ref="char:EOLhyphen"/>mony for human satisfaction, of his being in another world. He replied, yes, dear Sister I can, and thereupon desired to speak with her in private, at which time he told her many secret sins which she had been guilty of, inso<g ref="char:EOLhyphen"/>much that the remembrance thereof caused her to weep bitterly, and afterwards glorified God, confessed that they were such secret sins as she was sure that none but God and herself till then ever had any Knowledge of, upon the rumour of this strange and remarkable providence, many wicked and ungodly Persons resorted to him only by way of derision to try whether he could reveal these Sins or not, who no sooner approached his presence, but they were imme<g ref="char:EOLhyphen"/>diately told many of their secret and notorious Sins, to their extraordinary amazement and wonder, and not only so, but to the happy conversation and convict of many, who per<g ref="char:EOLhyphen"/>haps without this uncom and supernatural method they continued deserved Vassals of God's wrath and vengeance, though now re<g ref="char:EOLhyphen"/>main, blessed be God, hopeful Objects of the savour and mercy of the Almighty, which is chiefly owing to this strange and wonderful
+<pb n="7" facs="tcp:205779:4"/> dispensation. He having received his Strength the next Sunday, he gave Notice to those were at his intended Funeral to come to Church, when he preached to them the following most excellent Discourse.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="sermon">
+                        <head>The SERMON.</head>
+                        <epigraph>
+                           <bibl>John xi. 25.</bibl>
+                           <q>I am the Resurrection of the Life, saith the Lord: He that believeth in me, tho' he be dead, yet shall he live; and whosoever liveth and believeth in me, shall never die.</q>
+                        </epigraph>
+                        <p>THESE Words of our Saviour were spoken in answer to Martha, who seemed to doubt of the literal meaning and signification thereof; for it was when Lazerous had been dead four days; and, she was so far grounded in her human opinion that she thought it im<g ref="char:EOLhyphen"/>possible for Christ to raise himself again, as ap<g ref="char:EOLhyphen"/>peared by her repeated arguments or contra<g ref="char:EOLhyphen"/>dictions, saying, my Lord by this time he stinketh, for he hath been dead these four days. But saith our Saviour, verse the 40. Said I not unto thee, if thou would'st believe, thou shall see the glory of God. Indeed Mary seemed, verse 22d. to be of opinion that if Christ had been with Lazarous in the time of his sickness he might have perserved him alive; but beind dead, she with Martha concluded it unneces<g ref="char:EOLhyphen"/>sary to hope for his resurrection. You may read the whole Chapter at your leasure, and observe how miraculously Lazarous was raised
+<pb n="8" facs="tcp:205779:5"/> to Life after he had been dead four days. Be<g ref="char:EOLhyphen"/>loved, God's arm is not shortned, his power is not lessened, that wonderful and strange miracle was to convince obstinate and perverse unbelievers. I am in great hopes this unspeak<g ref="char:EOLhyphen"/>able providence vouchsafed to me, was ap<g ref="char:EOLhyphen"/>pointed for some greater end, in order to re<g ref="char:EOLhyphen"/>strain such wilful and stubborn upon; however by his eminent dispesation we may, as in a glass view the unbounded and unlimited works of God, who sent me back again upon a great and mighty errand and that in a great and extraor<g ref="char:EOLhyphen"/>dinary manner, thereby to make his power and greatness unquestionable and that in vain and impious Men may have no matter of argument to withstand the truth of the gospel, I am heartily glad that I am accounted worthy to bear testimony to you all of the exceeding good<g ref="char:EOLhyphen"/>ness, as well as infinite power of our creator; and I also rejoiced in this that my return has or at least will, not only by a means to streng<g ref="char:EOLhyphen"/>then your faith, but to conform and support it, and that under the greatest difficulties that any human disaster can occasion, I have many other things more to add, but being something faint, by reason of my indisposition, I shall therefore refer the farther prosecution of this subject to the next opportunity of God is pleased to afford me; to whose protection I earnestly recommend to you all.</p>
+                        <closer>Amen.</closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
